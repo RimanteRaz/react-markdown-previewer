@@ -5,17 +5,6 @@ import Editor from "./components/editor";
 import Preview from "./components/preview";
 import "./App.scss";
 
-// function App() {
-//   return (
-//     <div className="App">
-//       <Intro />
-//       <h1>Test</h1>
-//       <p>Checking if this works on github pages</p>
-//       <img src={logo} className="App-logo" alt="logo" />
-//     </div>
-//   );
-// }
-
 class App extends Component {
   constructor(props) {
     super(props);
